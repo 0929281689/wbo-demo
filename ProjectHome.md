@@ -1,0 +1,1 @@
+Project demostrate using grails+dojo
