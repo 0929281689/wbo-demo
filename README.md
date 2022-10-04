@@ -1,3 +1,3 @@
 wbo-demo try github
 new branch developer add
-oracle JET Start Learn
+dojo 1.8 demo
